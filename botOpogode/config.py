@@ -1,0 +1,2 @@
+open_weather_token = "87b50cbaca288ef93bc39de8f1adfb2e"
+tk_telegram_bot = "5350505314:AAFK0C06euNN8pZmq0FVI5rmdFk8Dxx8uTg"
